@@ -228,7 +228,7 @@ uninstall_theme() {
   echo -e "${BLUE}[+]                    DELETE THEME              [+]${NC}"
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "                                                       "
-  bash <(curl -s -H "Authorization: token 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" https://raw.githubusercontent.com/XstyanzZx/xyroku/main/repair.sh)
+  bash <(curl -s -H "Authorization: token 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" https://raw.githubusercontent.com/XstyanzZx/xyroku/main/repair.sh)
   echo -e "                                                       "
   echo -e "${GREEN}[+] =============================================== [+]${NC}"
   echo -e "${GREEN}[+]                 DELETE THEME SUKSES         [+]${NC}"
