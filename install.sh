@@ -64,7 +64,7 @@ check_token() {
   echo -e "${YELLOW}MASUKAN AKSES TOKEN :${NC}"
   read -r USER_TOKEN
 
-  if [ "$USER_TOKEN" = "iloveyoulili" ]; then
+  if [ "$USER_TOKEN" = "xyrosukamewing" ]; then
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
     echo -e "${GREEN}Buy dulu wkww Ke Xyro Official
